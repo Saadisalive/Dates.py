@@ -1,0 +1,5 @@
+print("Birthday date of Miss angali Guptha is jan",19,1999)
+print("Birthday date of Mahir is feb",19,2019)
+print("Birthday date of Rachit is Mar",19,2003)
+print("Birthday date of Rupesh is Apr",19,2002)
+print("Birthday date of Saad is Dec",10,2001)
